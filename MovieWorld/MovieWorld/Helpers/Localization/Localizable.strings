@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  MovieWorld
+
+  Created by Hassan Personal on 09.04.22.
+  
+*/
+"TrendingMoviesVC.title" = "Trending Movies";
+"DetailsMoviesVC.title" = "Movie Details";
